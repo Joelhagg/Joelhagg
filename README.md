@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Joel Hagg, the a is with two pricks on top, in sweden ä. A live on an island in the baltic sea but with surprisingly good internet speeds!
+- 👀 I’m interested in computers in general and web-developing, also music:guitar: and strength training.
+- 🌱 I’m currently learning html/css in school @medieinstitutet:mortar_board: and looking forward to javascrip to become an Front-end Developer!
