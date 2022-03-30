@@ -1,5 +1,7 @@
-Hi, I’m Joel Hägg
+# Hi, I’m Joel Hägg! Studying front-end [@Medieinstitutet](https://medieinstitutet.se/utbildningar/front-end-developer/):mortar_board:
 
-- 👋 I live on an island in the baltic sea but with surprisingly good internet speeds!
-- 👀 I’m interested in computers and web-developing, also music:guitar: and strength training.
-- 🌱 I’m currently learning Html, CSS And Javascript with frameworks such as Angular and React in school @medieinstitutet:mortar_board: and looking forward to javascript to become an Front-end Developer!
+<p> :smile: I live on an island in the baltic sea with surprisingly good internet speeds!</p>
+<p> :computer: I’m interested in computers and web development, also music:guitar: and strength training.</p>
+<p> :v: Currently learning Html, CSS And Javascript with frameworks Angular and React, looking forward to become an Front-end Developer!</p>
+
+## Pleace check out my [linkedin](https://www.linkedin.com/in/joelhagg/):smiley:
